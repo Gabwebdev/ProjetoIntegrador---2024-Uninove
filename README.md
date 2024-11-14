@@ -11,3 +11,5 @@ Projeto semestral
 ➢ NOME: MARCIO BATISTA DOS SANTOS JÚNIOR----------------RA: 2223201330
 
  ➢ NOME: BEATRIZ GONÇALVES NASCIMENTO----------------- --RA: 2223103399
+
+O jogo pode ser baixado diretamente no site: https://epicclicker2.netlify.app/
